@@ -18,12 +18,11 @@ My focus is on building responsive, accessible, and performance-oriented web app
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| [Portfolio Website](https://r3webdesign.de) | Personal portfolio that showcases selected client work and my development approach. |
-| [Atelier Haarkunst](https://r3webdesign.de/projekt-1.html) | Modern, SEO-friendly website with mobile-first layout and clear service presentation. |
-| [GedankenRein Coaching](https://r3webdesign.de/projekt-2.html) | Responsive coaching site with structured content, clean UX, and search-engine fundamentals. |
-| [Ohrelauf Project Website](https://r3webdesign.de/projekt-3.html) | Event website focused on clarity, speed, and maintainability with a modern front end. |
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://r3webdesign.de)
+[![Atelier Haarkunst](https://img.shields.io/badge/Atelier-Haarkunst-green?style=for-the-badge)](https://r3webdesign.de)
+[![GedankenRein Coaching](https://img.shields.io/badge/GedankenRein-Coaching-orange?style=for-the-badge)](https://r3webdesign.de)
+[![Ohrelauf Website](https://img.shields.io/badge/Ohrelauf-Website-red?style=for-the-badge)](https://r3webdesign.de)
+
 
 ## Currently Learning
 
