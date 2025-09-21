@@ -20,10 +20,11 @@ Aspiring Full-Stack Web Developer focused on creating responsive, accessible, an
 
 ## Featured Projects
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://r3webdesign.de)
-[![Atelier Haarkunst](https://img.shields.io/badge/Atelier-Haarkunst-green?style=for-the-badge)](https://r3webdesign.de)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge)](https://r3webdesign.de)
+[![Atelier Haarkunst](https://img.shields.io/badge/Atelier-Haarkunst-success?style=for-the-badge)](https://r3webdesign.de)
 [![GedankenRein Coaching](https://img.shields.io/badge/GedankenRein-Coaching-orange?style=for-the-badge)](https://r3webdesign.de)
 [![Ohrelauf Website](https://img.shields.io/badge/Ohrelauf-Website-red?style=for-the-badge)](https://r3webdesign.de)
+
 
 
 ---
