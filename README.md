@@ -1,7 +1,7 @@
 # About Me
+Aspiring Full-Stack Web Developer focused on creating responsive, accessible, and performance-oriented applications.
 
-I am an aspiring Full-Stack Web Developer with a solid foundation in HTML, CSS, and JavaScript.
-My focus is on building responsive, accessible, and performance-oriented web applications with a clean codebase and clear documentation.
+---
 
 ## Tech Stack
 
@@ -16,44 +16,18 @@ My focus is on building responsive, accessible, and performance-oriented web app
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+---
+
 ## Featured Projects
+- **[Portfolio Website](https://r3webdesign.de)** – Personal site to showcase my skills and projects.
+- **[Atelier Haarkunst](https://r3webdesign.de)** – Modern SEO-friendly hair salon website with mobile-first approach.
+- **[GedankenRein Coaching](https://r3webdesign.de)** – Coaching platform with clear structure and optimized UX.
+- **[Ohrelauf Event Website](https://r3webdesign.de)** – Event website optimized for performance and clarity.
 
-<div align="center">
-
-<a href="https://r3webdesign.de">
-  <img src="https://img.shields.io/badge/Portfolio-Website-informational?style=flat-square&logo=github" />
-</a>
-<a href="https://r3webdesign.de">
-  <img src="https://img.shields.io/badge/Atelier-Haarkunst-success?style=flat-square&logo=google-chrome" />
-</a>
-<a href="https://r3webdesign.de">
-  <img src="https://img.shields.io/badge/GedankenRein-Coaching-orange?style=flat-square&logo=wordpress" />
-</a>
-<a href="https://r3webdesign.de">
-  <img src="https://img.shields.io/badge/Ohrelauf-Website-critical?style=flat-square&logo=javascript" />
-</a>
-
-</div>
-
+---
 
 ## Currently Learning
-
-- Full-Stack JavaScript via The Odin Project  
-- React patterns and state management  
-- Node.js, Express, and MongoDB for backend APIs  
-- Testing, CI/CD, and deployment workflows
-
-## How I Work
-
-- Accessibility and performance as first-class concerns  
-- Semantic HTML, scalable CSS, and component-driven UI  
-- Version control with Git and clear, descriptive commits
-
-## Contact
-
-- Portfolio: https://r3webdesign.de  
-- GitHub: https://github.com/rocket703
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocket703&show_icons=true)
+- Full-Stack JavaScript (The Odin Project)
+- React & state management
+- Node.js, Express, MongoDB
+- Testing and deployment workflows
