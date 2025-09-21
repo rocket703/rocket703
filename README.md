@@ -19,10 +19,12 @@ Aspiring Full-Stack Web Developer focused on creating responsive, accessible, an
 ---
 
 ## Featured Projects
-- **[Portfolio Website](https://r3webdesign.de)** – Personal site to showcase my skills and projects.
-- **[Atelier Haarkunst](https://r3webdesign.de)** – Modern SEO-friendly hair salon website with mobile-first approach.
-- **[GedankenRein Coaching](https://r3webdesign.de)** – Coaching platform with clear structure and optimized UX.
-- **[Ohrelauf Event Website](https://r3webdesign.de)** – Event website optimized for performance and clarity.
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://r3webdesign.de)
+[![Atelier Haarkunst](https://img.shields.io/badge/Atelier-Haarkunst-green?style=for-the-badge)](https://r3webdesign.de)
+[![GedankenRein Coaching](https://img.shields.io/badge/GedankenRein-Coaching-orange?style=for-the-badge)](https://r3webdesign.de)
+[![Ohrelauf Website](https://img.shields.io/badge/Ohrelauf-Website-red?style=for-the-badge)](https://r3webdesign.de)
+
 
 ---
 
