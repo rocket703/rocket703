@@ -34,3 +34,11 @@ Aspiring Full-Stack Web Developer focused on creating responsive, accessible, an
 - React & state management
 - Node.js, Express, MongoDB
 - Testing and deployment workflows
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocket703&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rocket703&layout=compact)
+
