@@ -11,11 +11,28 @@
 
 ---
 
+## ◆ Portfolio
+
+<br>
+
+### ❖ r3webdesign &nbsp;`Web-Development Portfolio`
+
+> My own professional portfolio, showcasing web development work and skills.
+
+| | |
+|---|---|
+| **Stack** | `Astro` |
+| **Live** | [![Website](https://img.shields.io/badge/Website-r3webdesign.de-000000?style=flat)](https://r3webdesign.de) |
+
+<br>
+
+---
+
 ## ✦ Featured Projects
 
 <br>
 
-### 🚀 Startplatzbörse &nbsp;`Web · Mobile App`
+### 🚀 Startplatzboerse.com &nbsp;`Web · Mobile App`
 
 > Race entry marketplace for sports events — web app + native mobile companion.
 
@@ -24,7 +41,7 @@
 | **Web** | Astro + Supabase — real-time listings, user auth, seller dashboard |
 | **App** | React Native (Expo) — full multi-screen architecture, mirrors web feature set |
 | **Stack** | `Astro` `Supabase` `React Native` `Expo` `TypeScript` |
-| **Live** | [startplatzboerse.com](https://startplatzboerse.com) |
+| **Live** | [![Website](https://img.shields.io/badge/Website-startplatzboerse.com-000000?style=flat)](https://startplatzboerse.com) |
 
 <br>
 
@@ -36,7 +53,7 @@
 |---|---|
 | **Stack** | `React Native` `Expo` `Sensor Fusion` `Complementary Filter` |
 | **Features** | Live arc gauges, ride history, gyroscope drift correction |
-| **Live** | [kingofcurves.de](https://kingofcurves.de) |
+| **Live** | [![Website](https://img.shields.io/badge/Website-kingofcurves.de-000000?style=flat)](https://kingofcurves.de) |
 
 <br>
 
@@ -44,12 +61,11 @@
 
 | Project | Type | Stack | Link |
 |---|---|---|---|
-| Atelier Haarkunst | Salon website | Astro, CSS | [atelierhaarkunst.de](https://atelierhaarkunst.de) |
-| GedankenRein Coaching | Coaching platform | Astro | [gedankenrein-coaching.de](https://gedankenrein-coaching.de) |
-| Ohrelauf | Running event | Static | [ohrelauf.de](https://ohrelauf.de) |
-| Radsportclub Magdeburg | Club website | WordPress | [radsportclub-magdeburg.de](https://radsportclub-magdeburg.de) |
-| 3/4Zwööölwe | Band website | Astro | [dreiviertzewoelwe.de](https://dreiviertzewoelwe.de) |
-| r3webdesign | Portfolio | Astro | [r3webdesign.de](https://r3webdesign.de) |
+| Atelier Haarkunst | Salon website | Astro, CSS | [![Website](https://img.shields.io/badge/Website-atelierhaarkunst.de-000000?style=flat)](https://atelierhaarkunst.de) |
+| GedankenRein Coaching | Coaching platform | Astro | [![Website](https://img.shields.io/badge/Website-gedankenrein--coaching.de-000000?style=flat)](https://gedankenrein-coaching.de) |
+| Ohrelauf | Running event | Static | [![Website](https://img.shields.io/badge/Website-ohrelauf.de-000000?style=flat)](https://ohrelauf.de) |
+| Radsportclub Magdeburg | Club website | WordPress | [![Website](https://img.shields.io/badge/Website-radsportclub--magdeburg.de-000000?style=flat)](https://radsportclub-magdeburg.de) |
+| 3/4Zwööölwe | Band website | Astro | [![Website](https://img.shields.io/badge/Website-dreiviertzewoelwe.de-000000?style=flat)](https://dreiviertzewoelwe.de) |
 
 <br>
 
@@ -83,20 +99,19 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-```
-01  React Native app for Startplatzbörse — multi-screen architecture, live listings
+01  React Native app for Startplatzboerse.com — multi-screen architecture, live listings
 02  Sensor fusion & lean-angle precision in King of Curves
 03  Core Web Vitals optimisation across all projects
 04  Astro islands architecture at scale
-```
+
 
 <br>
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rocket703&show_icons=true&theme=default&hide_border=true&count_private=true" />
@@ -108,7 +123,7 @@
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <p>
   <a href="https://r3webdesign.de"><img src="https://img.shields.io/badge/Portfolio-r3webdesign.de-a855f7?style=flat&logo=sparkles&logoColor=white" /></a>
@@ -121,3 +136,4 @@
 <br>
 
 <sub>crafting the web, one commit at a time.</sub>
+```http://googleusercontent.com/image_generation_content/206
